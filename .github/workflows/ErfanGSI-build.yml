@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'Direct link/直链'
         required: true
-        default: 'https://cdn.okcaros.com/rom/lemonadep/TQ3A.240403.001/stable/okcar_os-TQ3A.240403.001-lemonadep-stable-1712515668-rom.zip'
+        default: 'https://cdn.okcaros.com/rom/venus/TQ3A.240403.001/stable/okcar_os-TQ3A.240403.001-venus-stable-1712508432-rom.zip'
       REPACK_NAME:
         description: 'Compressed name/打包名称'
         required: true
